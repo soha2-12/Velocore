@@ -1,0 +1,29 @@
+1. Python Basics (Foundation)
+What is Python? How it works (interpreter, scripts)
+Installing Python, pip, virtual environments
+Printing, variables, data types
+Numbers, strings, type conversion
+Input/output
+Basic debugging
+
+2. Operators
+Arithmetic
+Comparison
+Logical
+Assignment
+Bitwise
+Membership (in, not in)
+Identity (is, is not)
+
+3. Flow Control
+if, elif, else
+Nested conditions
+Boolean logic
+Short-circuiting
+
+4. Loops
+for loops
+while loops
+Loop control: break, continue, pass
+Loop over strings, lists, dicts
+range() mastery
