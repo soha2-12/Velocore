@@ -1,0 +1,221 @@
+8. File Handling
+Open, read, write
+Working with text and binary files
+with context managers
+JSON
+CSV
+Exception safety
+
+9. Exception Handling
+Try / except
+Multiple excepts
+Finally
+Raise
+Custom exceptions
+
+10. Object-Oriented Programming (OOP) — EXPERT LEVEL REQUIRED
+Classes, objects
+Constuuctor (__init__)
+Attriutes, methods
+Inheritance
+Polymorphism
+Encapsulation
+Abstract classes (abc module)
+super()
+Magic methods (__str__, __len__, __getitem__ etc.)
+
+11. Advanced Python Concepts
+
+Iterators
+
+Generators (yield)
+
+Decorators
+
+Closures
+
+Context managers (__enter__, __exit__)
+
+Recursion
+
+Typing module (type hints)
+
+Shallow vs deep copy
+
+Mutability concepts
+
+Time & Date handling
+
+12. Data Handling & Built-in Libraries
+
+collections (Counter, defaultdict, deque)
+
+itertools
+
+functools
+
+os + sys
+
+shutil
+
+pathlib
+
+time & datetime
+
+random
+
+re (regex)
+
+13. Algorithms & Problem Solving
+
+This is CRUCIAL for interviews:
+
+Searching (linear, binary)
+
+Sorting (bubble, merge, quick etc.)
+
+Recursion problems
+
+Hash tables
+
+Sliding window
+
+Two pointers
+
+Greedy algorithms
+
+Dynamic programming
+
+Graph basics (BFS, DFS)
+
+Trees, heaps, stacks, queues
+
+14. Databases
+
+SQL basics
+
+Using Python with SQL (sqlite3, MySQL, PostgreSQL)
+
+ORM basics (SQLAlchemy)
+
+15. Python For Data Science
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Data cleaning
+
+Data visualization
+
+Aggregation & groupby
+
+Working with datasets
+
+16. Python For Machine Learning (Optional but powerful)
+
+Scikit-learn
+
+Preprocessing
+
+Regression
+
+Classification
+
+Clustering
+
+Model evaluation
+
+Train-test split
+
+17. Python For Backend (Web Development)
+
+Flask
+
+FastAPI
+
+Django (optional but big)
+
+APIs
+
+CRUD operations
+
+Authentication
+
+JWT tokens
+
+Deployment basics
+
+18. Python For Automation
+
+Scripts
+
+OS automation
+
+Web scraping (BeautifulSoup, Selenium)
+
+Excel automation (openpyxl)
+
+Email automation
+
+Schedulers (cron, schedule lib)
+
+19. Testing
+
+unittest
+
+pytest
+
+Mocking
+
+Writing testable code
+
+Test-driven development basics
+
+20. Concurrency & Parallelism
+
+Multithreading
+
+Multiprocessing
+
+Asyncio
+
+Event loops
+
+When to use what
+
+21. Design Patterns (Expert Level)
+
+Singleton
+
+Factory
+
+Observer
+
+Decorator
+
+Strategy
+
+Adapter
+
+Builder
+
+MVC concepts
+
+22. Deployment & DevOps Basics
+
+Git/GitHub
+
+Virtual environments
+
+Docker basics
+
+CI/CD concepts
+
+Requirements.txt
+
+Versioning & packaging Python code
