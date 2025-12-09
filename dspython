@@ -1,0 +1,29 @@
+5. Data Structures
+Built-in types you must master:
+Lists (indexing, slicing, comprehension)
+Tuples
+Dictionaries
+Sets
+Strings (immuable, slicing, methods)
+Advanced operations:
+List comprehension
+Set operations
+Dict comprehension
+Nested structures (list of dicts, dict of lists)
+
+6. Functions (Super Important)
+def
+Parameters, return values
+Default parameters
+*args / **kwargs
+Docstrings
+Lambda functions
+Higher-order functions
+Scope (local/global)
+
+7. Modules & Packages
+Importing modules
+Standard library overview
+Creating your own module
+Virtual environments
+Using pip packages
